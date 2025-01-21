@@ -1,7 +1,8 @@
 title: Just the Docs Template
 description: A starter template for a Jeykll site using the Just the Docs theme!
 theme: just-the-docs
-
+# Color scheme supports "light" (default) and "dark"
+color_scheme: dark
 url: https://graphicasso.github.io/gpd-test2
 
 aux_links:
